@@ -1,7 +1,8 @@
 body{
-    background-color:rgb(252, 214, 168);
+  background-image: url(https://www.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-11-full.jpg);
+  background-repeat: repeat-y;
 }
-div{
+  div{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 #top{
@@ -9,7 +10,7 @@ div{
 }
 #top h1{
     font-size: 70px;
-    color: rgb(133, 33, 33);
+    color: rgb(6, 98, 110);
 }
 #top h2{
     font-size: 35px;
@@ -36,7 +37,7 @@ div{
     float:left;
     font-size: 20px;
     border:2px outset rgb(12, 12, 12);
-    background-color: rgb(248, 214, 172);
+    background-color: rgb(218, 252, 252);
     border-radius: 15%;
     color:rgb(10, 10, 10);
     padding:2px 5px;
@@ -44,7 +45,7 @@ div{
 }
 #menu a:hover{ 
   color:rgb(252, 248, 248);
-  background:rgb(126, 24, 24);
+  background:rgb(3, 63, 87);
 }
 
 #image{
@@ -78,6 +79,7 @@ div{
   }
 #about h3{
     margin-left: 100px;
+    color: rgb(6, 98, 110);
     font-size: 40px;
 }
   #about p{
